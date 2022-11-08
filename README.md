@@ -1,1 +1,1 @@
-# Stop Watch (JavaScript).
+# Stop Watch (JavaScript)..
